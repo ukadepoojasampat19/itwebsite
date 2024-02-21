@@ -1,0 +1,22 @@
+<div class="gallery">
+        <a target="_blank" href="1.jpg">
+          <img src="1.jpg" alt="Cinque Terre" width="" height="200px">
+        </a>
+        <div class="desc">Sanjivani college playground</div>
+      </div>
+      <p>A large playground is built for the student’s extra-curricular activities such as sports, athletics, PT trainings and more. An annual sports day function is also organized in this area.
+    </p>
+      <p>A large playground with outdoor facilities like Volleyball court, Cricket ground, Basketball court, Football, Kabaddi ground and indoor facilities like Chess, Badminton court, Table tennis etc. are available. Well-equipped gymnasium is available within campus for students as well as faculty.
+    </p>
+    </div>
+    <div class="card">
+      <h2>GYMKHANA</h2>
+      <div>
+        <a target="_blank" href="1.jpg">
+            <img src="gym.png" alt="Cinque Terre" width="" height="200px">
+          </a>
+      </div>
+      <p>The Institute believes in providing state of the art facilities for the overall development of students. The facilities are provided in terms of spacious playgrounds and other amenities for all kind of sports.
+    </p>
+      </div>
+  </div>
